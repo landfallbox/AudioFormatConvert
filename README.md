@@ -23,7 +23,7 @@ OGG => MP3
 
 项目的代码实现在 convert.py 中，通过修改 input_folder 指定要转换的文件所在的文件目录，通过修改 output_folder 指定转换后文件输出到哪个文件目录，之后运行脚本即可。
 
-## 代实现功能
+## 待实现功能
 
 MFLAC => MP3
 
